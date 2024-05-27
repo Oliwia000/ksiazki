@@ -22,7 +22,7 @@ class Program
         int choice;
         while (!int.TryParse(Console.ReadLine(), out choice) || choice < 1 || choice > 5)
         {
-            Console.WriteLine("Wybierz poprawną opcję (1-5).");
+            Console.WriteLine("Wybierz poprawną opcję.");
         }
 
         switch (choice)
@@ -41,7 +41,7 @@ class Program
                 }
                 else
                 {
-                    Console.WriteLine("Podano niepoprawne ID.");
+                    Console.WriteLine("Niepoprawne ID.");
                 }
                 Console.ReadKey();
                 Menu();
@@ -65,7 +65,7 @@ class Program
                 }
                 else
                 {
-                    Console.WriteLine("Podano niepoprawny rok wydania.");
+                    Console.WriteLine("Niepoprawny rok wydania.");
                     Menu();
                 }
                 break;
@@ -79,7 +79,7 @@ class Program
                 }
                 else
                 {
-                    Console.WriteLine("Podano niepoprawne ID.");
+                    Console.WriteLine("Niepoprawne ID.");
                     Menu();
                 }
                 break;
