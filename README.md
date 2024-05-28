@@ -4,5 +4,9 @@ Stan początkowy
 informacje na temat ksiązki (opcja 2 w menu)
 ![3](https://github.com/Oliwia000/ksiazki/assets/152185830/eb812c68-3fdc-4f8d-a7a5-9b33c367ea83)
 
+jeśli nie ma podanego id
+![4](https://github.com/Oliwia000/ksiazki/assets/152185830/a8ba30db-3ed0-43d8-9444-461adcb47514)
+
+
 Proces dodawania książki
 ![4](https://github.com/Oliwia000/ksiazki/assets/152185830/c87481b7-d61c-4f54-8e84-78cc825a3644)
